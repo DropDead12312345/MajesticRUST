@@ -284,8 +284,8 @@
    "Servers":{
       "Official":[
          {
-			"Address": "62.122.215.87",
-			"Port": 9999,
+			"Address": "127.0.0.1",
+			"Port": 28015,
 			"Tags": ""
          },
          {
